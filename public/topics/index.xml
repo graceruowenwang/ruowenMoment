@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>标签 on This Ruowen Moment</title>
+    <link>https://ruowenwang.online.com/topics/</link>
+    <description>Recent content in 标签 on This Ruowen Moment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jun 1993 00:00:00 +0000</lastBuildDate><atom:link href="https://ruowenwang.online.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>learn</title>
+      <link>https://ruowenwang.online.com/topics/learn/</link>
+      <pubDate>Mon, 14 Jun 1993 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruowenwang.online.com/topics/learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://ruowenwang.online.com/topics/live/</link>
+      <pubDate>Mon, 14 Jun 1993 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruowenwang.online.com/topics/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>https://ruowenwang.online.com/topics/love/</link>
+      <pubDate>Mon, 14 Jun 1993 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruowenwang.online.com/topics/love/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
