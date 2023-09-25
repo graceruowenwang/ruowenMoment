@@ -1,0 +1,41 @@
+---
+title: "My Dear Friend"
+date: 2023-09-25
+layout: "simple"
+tags: "poem"
+---
+
+My dear friend,
+
+Today I realize that heart matters more than brain, as silence says more than words.
+
+I can’t  say a word when silence say it well.
+
+I can’t disturb the serenity when the truth reveals its veil.
+
+But I can feel a lot more.
+
+I feel trust when people reveal their weaknesses right in front of me.
+
+I feel insecure when silence is too long between the sentences.
+
+I feel the happiness and sadness flowing with the tears.
+
+I feel myself reaching out to you for our connections.
+
+
+Yesterday, I heard an explanation for the philosopher’s thoughts. 
+
+When you feel deep, you feel much more pain.
+
+But please try to feel, much more than see.
+
+I hope everything feels brand new each morning.
+
+I hope you feel your being  with all my wishes.
+
+I hope you feel beauty when you feel my soul.
+
+
+
+grinningGrace

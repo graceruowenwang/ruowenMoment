@@ -1,0 +1,42 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "博客"
+  pageRef = "blogs"
+  weight = 10
+
+[[main]]
+  name = "碎碎念"
+  pageRef = "moments"
+  weight = 20
+
+[[main]]
+  name = "标签"
+  pageRef = "topics"
+  weight = 40
+
+[[main]]
+  name = "Write in English"
+  pageRef = "WriteInEnglish"
+  weight = 30
+
+
+[[main]]
+  name = "weibo"
+  url = "https://www.weibo.com/u/7457987056"
+  weight = 50
+  [main.params]
+    icon = "weibo"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  identifier = "search"
+  weight = 60
+  [main.params]
+    action = "search"
+    icon = "search"
+
+#[[footer]]
+ # name = "Privacy"
+  #pageRef = "privacy"
