@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ruowenwang.online.com/sitemap.xml
